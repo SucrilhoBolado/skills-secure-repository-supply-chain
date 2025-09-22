@@ -43,3 +43,7 @@ obj/
 *.deps.json
 *.runtimeconfig.json
 *.runtimeconfig.dev.json
+
+# Node.js dependencies #
+########################
+node_modules/
