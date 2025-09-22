@@ -35,3 +35,15 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# .NET build artifacts #
+########################
+bin/
+obj/
+*.deps.json
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
+
+# Node.js dependencies #
+########################
+node_modules/
